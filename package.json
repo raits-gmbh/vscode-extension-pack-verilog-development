@@ -1,0 +1,34 @@
+{
+    "author": {
+        "name": "René André IT-Services GmbH",
+        "email": "info@raits.gmbh",
+        "url": "https://raits.gmbh/"
+    },
+    "publisher": "raits",
+    "repository": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-verilog-development"
+    },
+    "license": "MIT",
+    "name": "verilog-extensions",
+    "displayName": "Verilog Development Extension Pack",
+    "description": "Extensions related to verilog development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+      "raits"
+    ],
+    "extensionPack": [ 
+        "mshr-h.veriloghdl",
+        "eirikpre.systemverilog",
+        "theonekevin.icarusext",
+        "bitwisecook.tcl",
+        "teros-technology.teroshdl",
+        "hbohlin.vunit-test-explorer",
+        "wavetrace.wavetrace"
+    ]
+}
